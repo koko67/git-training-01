@@ -1,3 +1,4 @@
+// Class Calculator with main operations
 public class Calculator {
 	// sums 2 numbers
 	public int sum(int n1, int n2) {
