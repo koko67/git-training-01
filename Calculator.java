@@ -18,4 +18,9 @@ public class Calculator {
 	public int divide(int n1, int n2) {
 		return n1 / n2;
 	}
+
+	// duplicate number
+	public int duplicateNumber(int n1) {
+		return n1 * 2;
+	}
 }
