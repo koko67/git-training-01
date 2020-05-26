@@ -18,4 +18,9 @@ public class Calculator {
 	public int divide(int n1, int n2) {
 		return n1 / n2;
 	}
+	
+	// divide 2 numbers
+	public int percentage(int n1, int n2) {
+		return n1 / n2;
+	}
 }
